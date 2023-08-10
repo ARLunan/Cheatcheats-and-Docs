@@ -1,4 +1,4 @@
-# Cheatcheats-and-Notes
+# Cheatcheats-and-Docs
 Documents to Support Development Projects
 1) Neato Turtle
     a) Launch Cheatsheet
